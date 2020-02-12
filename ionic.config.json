@@ -1,0 +1,7 @@
+{
+  "name": "dutchBrosApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
