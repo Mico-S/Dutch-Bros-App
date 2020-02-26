@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Nanami';
+    src: local('Nanami'), url(../nanami/Nanami-Regular.otf) format('opentype');
+}
+
+ion-title {
+    font-family: Nanami;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+ion-toolbar {
+    --background: #373c3f;
+}
+
+ion-button {
+    width: 300px;
+}
+
+.button {
+    text-align: center;
+}
