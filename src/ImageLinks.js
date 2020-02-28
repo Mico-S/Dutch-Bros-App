@@ -103,7 +103,7 @@ const DrinkArray = [
         ["../../assets/dutch_bro_drinks/Freezes/Caramelizer_Freeze.png", "Caramelizer Freeze"],
         ["../../assets/dutch_bro_drinks/Freezes/Cherry_Blossom_Freeze.png", "Cherry Blossom Freeze"],
         ["../../assets/dutch_bro_drinks/Freezes/Cinnamon_Dolce_Freeze.png", "Cinnamon Dolce Freeze"],
-        ["../../assets/dutch_bro_drinks/Freezes/Cinammon_Roll_Freeze.png", "Cinammon Roll Freeze"],
+        ["../../assets/dutch_bro_drinks/Freezes/Cinnamon_Roll_Freeze.png", "Cinnamon Roll Freeze"],
         ["../../assets/dutch_bro_drinks/Freezes/Cocomo_Freeze.png", "Cocomo Freeze"],
         ["../../assets/dutch_bro_drinks/Freezes/Cookie_Freeze.png", "Cookie Freeze"],
         ["../../assets/dutch_bro_drinks/Freezes/Cotton_Candy_Freeze.png", "Cotton Candy Freeze"],

@@ -1,10 +1,15 @@
 @font-face {
+    font-family: 'Nanami-Thin';
+    src: local('Nanami-Thin'), url(../nanami/Nanami-Thin.otf) format('opentype');
+}
+
+@font-face {
     font-family: 'Nanami';
     src: local('Nanami'), url(../nanami/Nanami-Regular.otf) format('opentype');
 }
 
 ion-title {
-    font-family: Nanami;
+    font-family: Nanami-Thin;
     color: white;
     font-size: 30px;
     text-align: center;

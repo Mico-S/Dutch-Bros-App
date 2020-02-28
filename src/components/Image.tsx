@@ -10,11 +10,13 @@ interface ImageProps {
 const Image: React.FC<ImageProps> = (props) => {
     if(props.imageArray.length === 0) {
         return (
-            <IonText><h3>After you select your drink options, click the "Randomize!" button above to get your random drink!</h3></IonText>
+            <div className="beforeDrinkText">
+                <IonText><h3>After you select your drink options, click the "Randomize!" button above to get your random drink!</h3></IonText>
+            </div>
         )
     } else {
         return (
-            <div>
+            <div className="drinkTextAndImage">
                 <img src={props.imageArray[0]} alt="alt"/>
                 <IonText><h3> {props.imageArray[1]} </h3></IonText>
             </div>
